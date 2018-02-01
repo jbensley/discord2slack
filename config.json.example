@@ -1,0 +1,11 @@
+{
+  "discord_token" : "my_discord_app_token",
+  "slack_token" : "my_slack_app_token",
+  "discord_to_slack_channel_map": {
+    "general" : {
+      "slack_channel" : "general",
+      "slack_id" : "C0NKXXXXX",
+      "hidden" : false
+    }
+  }
+}
